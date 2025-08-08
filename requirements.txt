@@ -2,6 +2,7 @@ matplotlib
 ipympl
 scipy
 voila
+voila-topbar==0.1.1
 numpy
 pillow
 varname
