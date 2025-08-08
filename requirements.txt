@@ -1,0 +1,10 @@
+matplotlib
+ipympl
+scipy
+voila
+numpy
+pillow
+varname
+pygtrie
+random
+ipywidgets
