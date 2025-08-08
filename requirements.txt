@@ -1,5 +1,6 @@
 matplotlib
 ipympl
+ipykernel
 scipy
 voila
 voila-topbar==0.1.1
